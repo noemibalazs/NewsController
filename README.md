@@ -2,17 +2,18 @@
 
 TO DO:
 
-Design and implent a Guardian application using Guardian API
-Fetching data using Retrofit
-Storing data using Room
-Implementing Koin dependency injection
-Navigating through the application using NavController
+  1. Design and implent a Guardian application using Guardian API
+  2. Fetching data using Retrofit
+  3. Storing data using Room
+  4. Implementing Koin dependency injection
+  5. Navigating through the application using NavController
 
 Libraries:
 
-Koin
-Room
-Retrofit
-Glide
-Support design libraries
+  1. Koin
+  2. Room
+  3. Retrofit
+  4. Glide
+  5. Support design libraries
+  
 Screenshots:
