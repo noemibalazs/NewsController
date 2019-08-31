@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NewsController</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Guardian News</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_business">Business</string>
+    <string name="menu_politics">Politics</string>
+    <string name="menu_sport">Sport</string>
+    <string name="menu_visited">Visited</string>
+
+    <string name="network_connecting_error">Network connecting error</string>
+    <string name="error_title">Error</string>
+    <string name="error_ok_button">Ok</string>
+
+    <string name="search_hint_business">Search for business news</string>
+    <string name="search_hint_sports">Search for sports news</string>
+    <string name="search_hint_politics">Search for politics news</string>
+
+    <string name="toast_message">The searched text length should be at least 4 characters!</string>
+
+    <string name="news_created_by">by %s</string>
+    <string name="news_deserve_2_read">Article that deserve to read!</string>
+
+</resources>

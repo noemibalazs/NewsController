@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/navigation_header"
+        app:startDestination="@id/businessFragment">
+
+    <fragment
+            android:id="@+id/businessFragment"
+            android:name="com.example.newscontroller.fragment.BusinessFragment"
+            tools:layout="@layout/fragment_container"
+            android:label="@string/menu_business" />
+    <fragment
+            android:id="@+id/sportsFragment"
+            android:name="com.example.newscontroller.fragment.SportsFragment"
+            tools:layout="@layout/fragment_container"
+            android:label="@string/menu_sport" />
+    <fragment
+            android:id="@+id/politicsFragment"
+            tools:layout="@layout/fragment_container"
+            android:name="com.example.newscontroller.fragment.PoliticsFragment"
+            android:label="@string/menu_politics" />
+    <fragment
+            android:id="@+id/visitedFragment"
+            tools:layout="@layout/fragment_visited"
+            android:name="com.example.newscontroller.fragment.VisitedFragment"
+            android:label="@string/menu_visited" />
+
+
+</navigation>
